@@ -14,9 +14,9 @@ light blue: #1c5380
 body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-left: 90px;
-  margin-top: 50px;
+  margin-top: 150px;
   width: fit-content;
-
+background-color:black;
 }
 
 #instagramTitle {
