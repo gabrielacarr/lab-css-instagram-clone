@@ -4,7 +4,97 @@ dark blue: #06365f
 light blue: #1c5380
 */
 
+
+
+.phonesLarge   {
+  float: left;
+
+}
+
 body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 0;
+  margin-left: 90px;
+  margin-top: 50px;
+  width: fit-content;
+
+}
+
+#instagramTitle {
+padding-top: 5px;
+}
+
+/* 
+///////container//////
+has the text inside the white box
+the margin, gives space to the right of the phone
+*/
+
+
+#container {   
+ text-align: left;
+ margin-left: 350px;
+ margin-right: 100px;
+ position: relative;
+}
+
+
+#captureBoxBody {
+
+    width: 400px;
+    height: 250px;
+    position: fixed;
+   
+}
+#captureBodyImg {
+ display: inline-block;
+ width: 500px;
+box-sizing: content-box;
+position: relative;
+
+}
+
+p {
+text-align: left;
+}
+
+#bodyText {
+  position: absolute;
+margin-left: 8%;
+margin-top: 30%;
+width: 400px;
+}
+
+
+h2{
+  position: absolute;
+  margin-left: 7%;
+}
+
+#bottomText {
+  margin-top: 10px;
+}
+
+#downloadImgs{
+  margin-top: 350px;
+  display: flex;
+  margin-left: 375px;
+}
+
+#header{
+align-items: flex-end;
+
+}
+#loginbutton{
+
+}
+
+div {
+    display: in-block;
+}
+
+
+
+#img{
+  margin-left: 1200px;
+
 }
